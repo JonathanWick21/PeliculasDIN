@@ -8,6 +8,9 @@ function Interprete(props) {
   return (
     <>
       <div>
+
+
+        
         <img src={foto} alt={nombre}/>
         <div>
           <h2>{nombre}</h2>
